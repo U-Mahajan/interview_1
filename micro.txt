@@ -1,0 +1,25 @@
+@Slf4j
+ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+        executor.setCorePoolSize(5);
+        executor.setMaxPoolSize(10);
+        executor.setQueueCapacity(25);
+        executor.initialize();
+opentelemetry tempo
+protail loki
+RedisConnectionFactory connectionFactory
+RedisTemplate<String, Object> template = new RedisTemplate<>();
+        template.setConnectionFactory(connectionFactory);
+template.setKeySerializer(new StringRedisSerializer());
+        template.setValueSerializer(new StringRedisSerializer());
+
+spring.application.name=service-registry
+server.port=8761
+eureka.client.register-with-eureka=false
+eureka.client.fetch-registry=false
+eureka.instance.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
+spring.cloud.config.server.git.uri=https://github.com/RameshMF/microservices-config-repo.git
+  rabbitmq:
+    host: "localhost"
+    port: 5672
+    username: "guest"
+    password: "guest"
