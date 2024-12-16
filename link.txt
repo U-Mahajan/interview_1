@@ -1,0 +1,27 @@
+https://techbeamers.com/java-coding-questions-assess-programming-skills/
+
+https://www.digitalocean.com/community/tutorials/java-programming-interview-questions
+
+https://coderpad.io/interview-questions/java-interview-questions/
+
+Sql
+
+https://www.geeksforgeeks.org/sql-query-interview-questions/
+
+
+https://blog.devgenius.io/java-8-coding-and-programming-interview-questions-and-answers-62512c44f
+
+Core java question:
+https://www.interviewbit.com/java-mcq/
+
+sql
+https://www.interviewbit.com/courses/databases/sql-queries/
+
+https://www.javaguides.net/2023/01/microservices-quiz-mcq-multiple-choice.html
+
+code snipate: 
+https://iq.opengenus.org/java-predict-output-questions/
+
+chart
+
+https://chatgpt.com/share/ce211eed-1645-4e6e-8932-5dab0acabe4e
